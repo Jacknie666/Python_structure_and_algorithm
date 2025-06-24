@@ -124,7 +124,7 @@
 
 📬 **联系方式：**
 - 如有勘误或建议，请提交 [GitHub Issue](https://github.com/yourname/yourrepo/issues) 
-- 或发送邮件至 `[你的邮箱]`
+- 或发送邮件至 `【1321953481@qq.com]`
 
 🌟 欢迎 Fork、Star 和 PR，一起为更多学习者提供高质量内容！
 
